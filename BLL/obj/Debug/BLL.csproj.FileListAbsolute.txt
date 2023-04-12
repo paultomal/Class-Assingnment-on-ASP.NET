@@ -1,0 +1,2 @@
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

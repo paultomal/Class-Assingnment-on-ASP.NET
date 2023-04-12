@@ -1,0 +1,14 @@
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\DLL.dll.config
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\DLL.dll
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\DLL.pdb
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.dll
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.xml
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.Migrations.projectDBset.resources
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.csproj.GenerateResource.cache
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.csproj.CopyComplete
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.dll
+D:\STUDY MATARIALS\DOT NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.pdb

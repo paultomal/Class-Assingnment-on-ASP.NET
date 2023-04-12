@@ -1,0 +1,14 @@
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\DLL.dll.config
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\DLL.dll
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\DLL.pdb
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.dll
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.xml
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DAL.csproj.CopyComplete
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.dll
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.pdb
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DLL.Migrations.projectDBset.resources
+E:\10th semester\.NET\ProjectMemberAssignment\DLL\obj\Debug\DAL.csproj.GenerateResource.cache
